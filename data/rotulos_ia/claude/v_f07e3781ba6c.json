@@ -1,0 +1,99 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "2,3 g (2cápsula)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "2,3 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "7",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras Totais (g)",
+   "quantidade": "0,8",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras Saturadas (g)",
+   "quantidade": "0,1",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "10",
+   "vd": "67"
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "100",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Vitamina B1 (mg)",
+   "quantidade": "2",
+   "vd": "167"
+  },
+  {
+   "nutriente": "Vitamina B5 (mg)",
+   "quantidade": "5",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "5",
+   "vd": "385"
+  },
+  {
+   "nutriente": "Vitamina B9 (µg)",
+   "quantidade": "250",
+   "vd": "63"
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "4",
+   "vd": "167"
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "50",
+   "vd": "143"
+  },
+  {
+   "nutriente": "Manganês (mg)",
+   "quantidade": "1",
+   "vd": "33"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "10",
+   "vd": "91"
+  },
+  {
+   "nutriente": "Colina (mg)",
+   "quantidade": "83",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "100",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cafeína (mg)",
+   "quantidade": "75",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fosfatidilserina (mg)",
+   "quantidade": "25",
+   "vd": ""
+  },
+  {
+   "nutriente": "Inositol (mg)",
+   "quantidade": "50",
+   "vd": ""
+  }
+ ]
+}

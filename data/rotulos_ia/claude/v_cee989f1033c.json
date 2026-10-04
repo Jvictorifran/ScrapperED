@@ -1,0 +1,84 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "40 g (2 scoops)",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "Quantidade por porção",
+ "itens": [
+  {
+   "nutriente": "Valor energético",
+   "quantidade": "150 kcal/630kJ",
+   "vd": "8"
+  },
+  {
+   "nutriente": "Carboidrato",
+   "quantidade": "9,0 g",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Proteína",
+   "quantidade": "25 g",
+   "vd": "33"
+  },
+  {
+   "nutriente": "Gorduras Totais",
+   "quantidade": "1,6 g",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gordura Saturada",
+   "quantidade": "0,5 g",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Sódio",
+   "quantidade": "134 mg",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Histidina",
+   "quantidade": "189 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Isoleucina",
+   "quantidade": "480 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Leucina",
+   "quantidade": "600 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Lisina",
+   "quantidade": "639 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Metionina",
+   "quantidade": "105 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fenilalanina",
+   "quantidade": "270 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Treonina",
+   "quantidade": "200 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Triptofano",
+   "quantidade": "100 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Valina",
+   "quantidade": "273 mg",
+   "vd": ""
+  }
+ ]
+}

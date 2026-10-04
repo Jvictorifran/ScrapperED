@@ -1,0 +1,19 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,1117 g (5 gotas)",
+ "porcoes_por_embalagem": "Cerca de 175",
+ "coluna_lida": "0,1117 g (grupo populacional ≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "50 (2.000 UI)",
+   "vd": "333"
+  },
+  {
+   "nutriente": "Vitamina K (µg)",
+   "quantidade": "45",
+   "vd": "38"
+  }
+ ]
+}

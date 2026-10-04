@@ -1,0 +1,59 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "100 g",
+ "porcoes_por_embalagem": "Cerca de 67",
+ "coluna_lida": "100 g (rótulo declara porção de 6 g mas só traz colunas 100 g e 100 mL)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "384",
+   "vd": ""
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "96",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "19",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "19",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "30",
+   "vd": ""
+  }
+ ]
+}

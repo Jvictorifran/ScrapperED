@@ -1,0 +1,29 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,4 g (2cápsula)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "1,4 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "5",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras Totais (g)",
+   "quantidade": "0,6",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "20",
+   "vd": "133"
+  },
+  {
+   "nutriente": "Coenzima Q10 (mg)",
+   "quantidade": "200",
+   "vd": ""
+  }
+ ]
+}

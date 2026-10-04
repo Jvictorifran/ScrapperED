@@ -1,0 +1,24 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "7 g (1 colher medida)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "7 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "12",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "5,8",
+   "vd": "23"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "25",
+   "vd": "1"
+  }
+ ]
+}

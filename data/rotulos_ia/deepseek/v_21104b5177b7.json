@@ -1,0 +1,50 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "30 g (1 sachê)",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "Quantidade por porção",
+ "itens": [
+  {
+   "nutriente": "Valor Energético",
+   "quantidade": "80 kcal / 336 kJ",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Carboidratos",
+   "quantidade": "20 g",
+   "vd": "7"
+  },
+  {
+   "nutriente": "Sódio",
+   "quantidade": "60 mg",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Potássio",
+   "quantidade": "30 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cafeína",
+   "quantidade": "100 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Taurina",
+   "quantidade": "1000 mg",
+   "vd": ""
+  }
+ ],
+ "_modelo": "deepseek:deepseek-flash",
+ "_uso": {
+  "prompt_tokens": 847,
+  "completion_tokens": 205,
+  "total_tokens": 1052,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 847
+ }
+}

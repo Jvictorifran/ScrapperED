@@ -1,0 +1,54 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,7 g (2cápsula)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "1,7 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "5",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras Totais (g)",
+   "quantidade": "0,6",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras Saturadas (g)",
+   "quantidade": "0,1",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "25",
+   "vd": "167"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "11",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Ácido hialurônico (mg)",
+   "quantidade": "150",
+   "vd": ""
+  },
+  {
+   "nutriente": "Colágeno de frango com colágeno tipo II não desnaturado (mg)",
+   "quantidade": "40",
+   "vd": ""
+  },
+  {
+   "nutriente": "Colágeno tipo II não desnaturado (mg)",
+   "quantidade": "1,6",
+   "vd": ""
+  },
+  {
+   "nutriente": "Metilsulfonilmetano (mg)",
+   "quantidade": "400",
+   "vd": ""
+  }
+ ]
+}

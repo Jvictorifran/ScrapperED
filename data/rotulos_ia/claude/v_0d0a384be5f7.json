@@ -1,0 +1,44 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "6 g (1 copo dosador)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "6 g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "5,4",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,3",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares Adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "1",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "350",
+   "vd": "83"
+  },
+  {
+   "nutriente": "Inositol (g)",
+   "quantidade": "2",
+   "vd": ""
+  }
+ ]
+}

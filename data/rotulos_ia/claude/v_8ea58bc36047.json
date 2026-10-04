@@ -1,0 +1,24 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,13 g (1 cápsula)",
+ "porcoes_por_embalagem": "60",
+ "coluna_lida": "1,13 g",
+ "itens": [
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "50 (2.000 UI)",
+   "vd": "333"
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "800",
+   "vd": "800"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "15",
+   "vd": "136"
+  }
+ ]
+}

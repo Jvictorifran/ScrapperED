@@ -1,0 +1,59 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "6 g (4 cápsulas)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "6 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "41",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0,8",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "4,2",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,4",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras monoinsaturadas (g)",
+   "quantidade": "0,3",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras poli-insaturadas (g)",
+   "quantidade": "3,5",
+   "vd": "18"
+  },
+  {
+   "nutriente": "Ômega 6 (g)",
+   "quantidade": "3,5",
+   "vd": "19"
+  },
+  {
+   "nutriente": "Ácido linoleico (g)",
+   "quantidade": "3",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido gama-linolênico (g)",
+   "quantidade": "0,5",
+   "vd": ""
+  }
+ ]
+}

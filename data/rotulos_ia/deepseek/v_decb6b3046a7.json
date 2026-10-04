@@ -1,0 +1,80 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "45 g (1 embalagem)",
+ "porcoes_por_embalagem": "1",
+ "coluna_lida": "45 g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "205",
+   "vd": "10"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "19",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "17",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares Adicionados (g)",
+   "quantidade": "15",
+   "vd": "30"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "15",
+   "vd": "30"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "7,7",
+   "vd": "12"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "4,3",
+   "vd": "22"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras monoinsaturadas (g)",
+   "quantidade": "0,6",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras poli-insaturadas (g)",
+   "quantidade": "0,3",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "1",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "84",
+   "vd": "4"
+  }
+ ],
+ "_modelo": "deepseek:deepseek-flash",
+ "_uso": {
+  "prompt_tokens": 1227,
+  "completion_tokens": 390,
+  "total_tokens": 1617,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 1227
+ }
+}

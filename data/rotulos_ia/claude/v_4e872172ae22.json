@@ -1,0 +1,154 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "20 g (1 colher medida)",
+ "porcoes_por_embalagem": "23",
+ "coluna_lida": "20 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "61",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,2",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0,5",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "14",
+   "vd": "28"
+  },
+  {
+   "nutriente": "Glutamina (mg)",
+   "quantidade": "5.000",
+   "vd": ""
+  },
+  {
+   "nutriente": "Alanina (mg)",
+   "quantidade": "1.204",
+   "vd": ""
+  },
+  {
+   "nutriente": "Arginina (mg)",
+   "quantidade": "1.022",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido Aspártico (mg)",
+   "quantidade": "812",
+   "vd": ""
+  },
+  {
+   "nutriente": "Glicina (mg)",
+   "quantidade": "3.108",
+   "vd": ""
+  },
+  {
+   "nutriente": "Histidina (mg)",
+   "quantidade": "140",
+   "vd": ""
+  },
+  {
+   "nutriente": "Isoleucina (mg)",
+   "quantidade": "196",
+   "vd": ""
+  },
+  {
+   "nutriente": "Leucina (mg)",
+   "quantidade": "378",
+   "vd": ""
+  },
+  {
+   "nutriente": "Lisina (mg)",
+   "quantidade": "504",
+   "vd": ""
+  },
+  {
+   "nutriente": "Metionina (mg)",
+   "quantidade": "126",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fenilalanina (mg)",
+   "quantidade": "294",
+   "vd": ""
+  },
+  {
+   "nutriente": "Prolina (mg)",
+   "quantidade": "1.778",
+   "vd": ""
+  },
+  {
+   "nutriente": "Serina (mg)",
+   "quantidade": "448",
+   "vd": ""
+  },
+  {
+   "nutriente": "Treonina (mg)",
+   "quantidade": "252",
+   "vd": ""
+  },
+  {
+   "nutriente": "Tirosina (mg)",
+   "quantidade": "112",
+   "vd": ""
+  },
+  {
+   "nutriente": "Valina (mg)",
+   "quantidade": "336",
+   "vd": ""
+  },
+  {
+   "nutriente": "Hidroxiprolina (mg)",
+   "quantidade": "1.666",
+   "vd": ""
+  },
+  {
+   "nutriente": "Hidroxilisina (mg)",
+   "quantidade": "224",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "80",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "25",
+   "vd": "167"
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "100",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "63",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "11",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Ácido hialurônico (mg)",
+   "quantidade": "100",
+   "vd": ""
+  }
+ ]
+}

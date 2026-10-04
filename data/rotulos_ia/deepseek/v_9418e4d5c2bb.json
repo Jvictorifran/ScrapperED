@@ -1,0 +1,50 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,6 g (1 cápsula)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "0,6 g",
+ "itens": [
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Triptofano (mg)",
+   "quantidade": "240",
+   "vd": ""
+  },
+  {
+   "nutriente": "Glicina (mg)",
+   "quantidade": "74",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "13",
+   "vd": "87"
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "1,5",
+   "vd": "115"
+  },
+  {
+   "nutriente": "Melatonina (mg)",
+   "quantidade": "0,21",
+   "vd": ""
+  }
+ ],
+ "_modelo": "deepseek:deepseek-flash",
+ "_uso": {
+  "prompt_tokens": 846,
+  "completion_tokens": 215,
+  "total_tokens": 1061,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 846
+ }
+}

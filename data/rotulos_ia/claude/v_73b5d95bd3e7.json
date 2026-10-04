@@ -1,0 +1,34 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "2,82 g (3 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "2,82 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0,6",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "50",
+   "vd": "333"
+  },
+  {
+   "nutriente": "Vitamina K (µg)",
+   "quantidade": "45",
+   "vd": "38"
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "300",
+   "vd": "30"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "65",
+   "vd": "15"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "5 g (1 copo dosador)",
+ "porcoes_por_embalagem": "40",
+ "coluna_lida": "5 g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "2,5",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0,6",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares Adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Beta-alanina (g)",
+   "quantidade": "2",
+   "vd": ""
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "1000",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cafeína (mg)",
+   "quantidade": "400",
+   "vd": ""
+  }
+ ]
+}

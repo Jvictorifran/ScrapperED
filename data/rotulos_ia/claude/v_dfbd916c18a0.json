@@ -1,0 +1,129 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "10g (1 sachê)",
+ "porcoes_por_embalagem": "22",
+ "coluna_lida": "10g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "6",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,5",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "1,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares Adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "25",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Cobre (mcg)",
+   "quantidade": "450",
+   "vd": "50"
+  },
+  {
+   "nutriente": "Cromo (mcg)",
+   "quantidade": "8,75",
+   "vd": "25"
+  },
+  {
+   "nutriente": "Colina (mg)",
+   "quantidade": "138",
+   "vd": "25"
+  },
+  {
+   "nutriente": "Manganês (mg)",
+   "quantidade": "0,75",
+   "vd": "25"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "3,5",
+   "vd": "32"
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "23",
+   "vd": "23"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "5",
+   "vd": "33"
+  },
+  {
+   "nutriente": "Vitamina B1 (mg)",
+   "quantidade": "0,6",
+   "vd": "50"
+  },
+  {
+   "nutriente": "Riboflavina (mg)",
+   "quantidade": "0,65",
+   "vd": "54"
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "8",
+   "vd": "53"
+  },
+  {
+   "nutriente": "Ácido Pantotênico (mg)",
+   "quantidade": "2,5",
+   "vd": "50"
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "1,2",
+   "vd": "92"
+  },
+  {
+   "nutriente": "Ácido fólico (mcg)",
+   "quantidade": "120",
+   "vd": "30"
+  },
+  {
+   "nutriente": "Vitamina B12 (mcg)",
+   "quantidade": "1,2",
+   "vd": "50"
+  },
+  {
+   "nutriente": "Beta-Alanina (g)",
+   "quantidade": "2",
+   "vd": ""
+  },
+  {
+   "nutriente": "L- Alanina (mg)",
+   "quantidade": "500",
+   "vd": ""
+  },
+  {
+   "nutriente": "L- Arginina (mg)",
+   "quantidade": "1500",
+   "vd": ""
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "1500",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cafeína (mg)",
+   "quantidade": "200",
+   "vd": ""
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,5 g (2 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "1,5 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "5",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0,6",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gord. saturadas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gord. trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "6,9",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Vitamina A (µg)",
+   "quantidade": "135",
+   "vd": "17"
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "18",
+   "vd": "120"
+  },
+  {
+   "nutriente": "Vitamina B5 (mg)",
+   "quantidade": "5,4",
+   "vd": "108"
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "2",
+   "vd": "154"
+  },
+  {
+   "nutriente": "Biotina (µg)",
+   "quantidade": "30",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Cobre (µg)",
+   "quantidade": "300",
+   "vd": "33"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "20",
+   "vd": "182"
+  },
+  {
+   "nutriente": "Ác. hialurônico (mg)",
+   "quantidade": "100",
+   "vd": ""
+  },
+  {
+   "nutriente": "Silício (mg)",
+   "quantidade": "0,1",
+   "vd": ""
+  }
+ ]
+}

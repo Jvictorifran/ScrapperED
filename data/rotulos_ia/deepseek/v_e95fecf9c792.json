@@ -1,0 +1,50 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "3 g (1 sachê)",
+ "porcoes_por_embalagem": "10",
+ "coluna_lida": "3 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "11",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "2,8",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": "0"
+  }
+ ],
+ "_modelo": "deepseek:deepseek-flash",
+ "_uso": {
+  "prompt_tokens": 859,
+  "completion_tokens": 218,
+  "total_tokens": 1077,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 859
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "10 g (1 colher medida)",
+ "porcoes_por_embalagem": "24",
+ "coluna_lida": "10 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "10",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "2,9",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Poliois totais (g)",
+   "quantidade": "1,2",
+   "vd": ""
+  },
+  {
+   "nutriente": "Xilitol (g)",
+   "quantidade": "1,2",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Histidina (mg)",
+   "quantidade": "151",
+   "vd": ""
+  },
+  {
+   "nutriente": "Triptofano (mg)",
+   "quantidade": "200",
+   "vd": ""
+  },
+  {
+   "nutriente": "Metionina (mg)",
+   "quantidade": "400",
+   "vd": ""
+  },
+  {
+   "nutriente": "Treonina (mg)",
+   "quantidade": "600",
+   "vd": ""
+  },
+  {
+   "nutriente": "Lisina (mg)",
+   "quantidade": "640",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fenilalanina (mg)",
+   "quantidade": "700",
+   "vd": ""
+  },
+  {
+   "nutriente": "Isoleucina (mg)",
+   "quantidade": "800",
+   "vd": ""
+  },
+  {
+   "nutriente": "Valina (mg)",
+   "quantidade": "900",
+   "vd": ""
+  },
+  {
+   "nutriente": "Leucina (mg)",
+   "quantidade": "1.600",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "6,9",
+   "vd": "0"
+  }
+ ]
+}

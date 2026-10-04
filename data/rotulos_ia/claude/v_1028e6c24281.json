@@ -1,0 +1,29 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "3,6 g (6 cápsulas)",
+ "porcoes_por_embalagem": "40",
+ "coluna_lida": "3,6 g",
+ "itens": [
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0,6",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Beta-alanina (mg)",
+   "quantidade": "1.800",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "1",
+   "vd": "4"
+  }
+ ]
+}

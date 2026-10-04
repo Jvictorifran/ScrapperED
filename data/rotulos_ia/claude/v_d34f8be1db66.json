@@ -1,0 +1,64 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "100 g",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "100 g (rótulo sem coluna de porção; há também 100 mL pronto para consumo)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Glutamina (mg)",
+   "quantidade": "100.000",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": ""
+  }
+ ]
+}

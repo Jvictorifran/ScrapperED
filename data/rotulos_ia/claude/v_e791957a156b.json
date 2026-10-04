@@ -1,0 +1,19 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,78 g (1 cápsula)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "0,78 g",
+ "itens": [
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "16",
+   "vd": "145"
+  },
+  {
+   "nutriente": "Proantocianidinas de cranberry (mg)",
+   "quantidade": "7,5",
+   "vd": ""
+  }
+ ]
+}

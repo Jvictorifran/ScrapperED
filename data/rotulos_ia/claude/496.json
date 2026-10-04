@@ -1,0 +1,19 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "2,46 g (3 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "2,46 g (grupo populacional ≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "1,7",
+   "vd": "131"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "350",
+   "vd": "83"
+  }
+ ]
+}

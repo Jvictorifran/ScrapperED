@@ -1,0 +1,34 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "4 g (4 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "4 g",
+ "itens": [
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Leucina (mg)",
+   "quantidade": "1.360",
+   "vd": ""
+  },
+  {
+   "nutriente": "Isoleucina (mg)",
+   "quantidade": "973",
+   "vd": ""
+  },
+  {
+   "nutriente": "Valina (mg)",
+   "quantidade": "973",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "1,3",
+   "vd": "100"
+  }
+ ]
+}

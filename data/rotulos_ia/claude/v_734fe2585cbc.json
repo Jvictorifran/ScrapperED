@@ -1,0 +1,29 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,06 g (2 cápsulas)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "1,06 g",
+ "itens": [
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0,6",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "7",
+   "vd": "64"
+  },
+  {
+   "nutriente": "Peptídeos bioativos (g)",
+   "quantidade": "0,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Lactoferrina (mg)",
+   "quantidade": "300",
+   "vd": ""
+  }
+ ]
+}

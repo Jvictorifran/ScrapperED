@@ -1,0 +1,29 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "6 g (2 comprimidos)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "6 g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "9,1",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "2,3",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "1,1",
+   "vd": "5"
+  },
+  {
+   "nutriente": "Creatina (mg)",
+   "quantidade": "3300",
+   "vd": ""
+  }
+ ]
+}

@@ -1,0 +1,224 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "100 g",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "100 g (rótulo sem coluna de porção; há também 100 mL pronto para consumo)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "447",
+   "vd": ""
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "62",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "4,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "4,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "16",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "15",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "3,1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras monoinsaturadas (g)",
+   "quantidade": "5,8",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras poli-insaturadas (g)",
+   "quantidade": "4,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ômega 6 (g)",
+   "quantidade": "4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ômega 3 (mg)",
+   "quantidade": "400",
+   "vd": ""
+  },
+  {
+   "nutriente": "Colesterol (mg)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "6,7",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "222",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina A (µg)",
+   "quantidade": "153",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "1,3",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "2,7",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina K (µg)",
+   "quantidade": "17",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "12",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B1 (mg)",
+   "quantidade": "0,3",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B2 (mg)",
+   "quantidade": "0,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "4,1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B5 (mg)",
+   "quantidade": "1,3",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "0,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Biotina (µg)",
+   "quantidade": "8",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B9 (µg)",
+   "quantidade": "64",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "0,6",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "227",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cobre (µg)",
+   "quantidade": "210",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "8,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ferro (mg)",
+   "quantidade": "3,3",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cloro (mg)",
+   "quantidade": "131",
+   "vd": ""
+  },
+  {
+   "nutriente": "Iodo (µg)",
+   "quantidade": "30",
+   "vd": ""
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "59",
+   "vd": ""
+  },
+  {
+   "nutriente": "Manganês (mg)",
+   "quantidade": "0,6",
+   "vd": ""
+  },
+  {
+   "nutriente": "Molibdênio (µg)",
+   "quantidade": "11",
+   "vd": ""
+  },
+  {
+   "nutriente": "Potássio (mg)",
+   "quantidade": "363",
+   "vd": ""
+  },
+  {
+   "nutriente": "Selênio (µg)",
+   "quantidade": "7,9",
+   "vd": ""
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "1,6",
+   "vd": ""
+  },
+  {
+   "nutriente": "Colina (mg)",
+   "quantidade": "131",
+   "vd": ""
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "50",
+   "vd": ""
+  },
+  {
+   "nutriente": "L-carnitina (mg)",
+   "quantidade": "50",
+   "vd": ""
+  }
+ ]
+}

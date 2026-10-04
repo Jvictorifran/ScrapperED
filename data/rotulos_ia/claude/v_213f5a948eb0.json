@@ -1,0 +1,99 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "3 g (4 cápsulas)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "3 g (formato linear)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "16",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "1,8",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras poli-insaturadas (g)",
+   "quantidade": "0,8",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Ômega 3 (mg)",
+   "quantidade": "1.000",
+   "vd": "25"
+  },
+  {
+   "nutriente": "EPA (mg)",
+   "quantidade": "600",
+   "vd": ""
+  },
+  {
+   "nutriente": "DHA (mg)",
+   "quantidade": "400",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "20 (800 UI)",
+   "vd": "133"
+  },
+  {
+   "nutriente": "Vitamina K (µg)",
+   "quantidade": "88",
+   "vd": "73"
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "1,6",
+   "vd": "67"
+  },
+  {
+   "nutriente": "Selênio (µg)",
+   "quantidade": "36",
+   "vd": "60"
+  }
+ ]
+}

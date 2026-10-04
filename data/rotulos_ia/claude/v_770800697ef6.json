@@ -1,0 +1,19 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "2 g (1 sachê)",
+ "porcoes_por_embalagem": "10",
+ "coluna_lida": "2 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "8",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,9",
+   "vd": "1"
+  }
+ ]
+}

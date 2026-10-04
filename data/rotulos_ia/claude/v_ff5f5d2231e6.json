@@ -1,0 +1,44 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "30 g (1 sachê)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "30 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "108",
+   "vd": "5"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0,8",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "26",
+   "vd": "52"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "37",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "123",
+   "vd": "12"
+  }
+ ]
+}

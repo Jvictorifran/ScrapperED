@@ -1,0 +1,59 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "4,5 g (3 cápsulas)",
+ "porcoes_por_embalagem": "40",
+ "coluna_lida": "4,5 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "29",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0,6",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "3",
+   "vd": "5"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,2",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras monoinsaturadas (g)",
+   "quantidade": "0,5",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras poli-insaturadas (g)",
+   "quantidade": "2,5",
+   "vd": "13"
+  },
+  {
+   "nutriente": "Ômega 3 (mg)",
+   "quantidade": "1.800",
+   "vd": "45"
+  },
+  {
+   "nutriente": "EPA (mg)",
+   "quantidade": "300",
+   "vd": ""
+  },
+  {
+   "nutriente": "DHA (mg)",
+   "quantidade": "1.500",
+   "vd": ""
+  }
+ ]
+}

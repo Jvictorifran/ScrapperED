@@ -1,0 +1,199 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "40 g (4 colheres de sopa)",
+ "porcoes_por_embalagem": "10",
+ "coluna_lida": "40 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "146",
+   "vd": "7"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "32",
+   "vd": "11"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "5,5",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "2,3",
+   "vd": "5"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0,5",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,3",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "2,2",
+   "vd": "9"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "41",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Vitamina A (µg)",
+   "quantidade": "210",
+   "vd": "26"
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "1,7",
+   "vd": "11"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "3",
+   "vd": "20"
+  },
+  {
+   "nutriente": "Vitamina K (µg)",
+   "quantidade": "24",
+   "vd": "20"
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "18",
+   "vd": "18"
+  },
+  {
+   "nutriente": "Vitamina B1 (mg)",
+   "quantidade": "0,44",
+   "vd": "37"
+  },
+  {
+   "nutriente": "Vitamina B2 (mg)",
+   "quantidade": "0,48",
+   "vd": "40"
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "5,4",
+   "vd": "36"
+  },
+  {
+   "nutriente": "Vitamina B5 (mg)",
+   "quantidade": "3,1",
+   "vd": "62"
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "0,6",
+   "vd": "46"
+  },
+  {
+   "nutriente": "Vitamina B7 (µg)",
+   "quantidade": "30",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Vitamina B9 (µg)",
+   "quantidade": "60",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "0,32",
+   "vd": "13"
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "147",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Cloreto (mg)",
+   "quantidade": "24",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Cobre (µg)",
+   "quantidade": "670",
+   "vd": "74"
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "35",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Ferro (mg)",
+   "quantidade": "2,6",
+   "vd": "19"
+  },
+  {
+   "nutriente": "Fósforo (mg)",
+   "quantidade": "57",
+   "vd": "8"
+  },
+  {
+   "nutriente": "Iodo (µg)",
+   "quantidade": "30",
+   "vd": "20"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "43",
+   "vd": "10"
+  },
+  {
+   "nutriente": "Manganês (mg)",
+   "quantidade": "1",
+   "vd": "33"
+  },
+  {
+   "nutriente": "Molibdênio (µg)",
+   "quantidade": "45",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Potássio (mg)",
+   "quantidade": "90",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Selênio (µg)",
+   "quantidade": "10",
+   "vd": "17"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "2,9",
+   "vd": "26"
+  },
+  {
+   "nutriente": "Colina (mg)",
+   "quantidade": "44",
+   "vd": "8"
+  },
+  {
+   "nutriente": "Inositol (mg)",
+   "quantidade": "22",
+   "vd": ""
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "5,0g (Scoop conforme graduação)",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "Quantidade por porção",
+ "itens": [
+  {
+   "nutriente": "Valor energético",
+   "quantidade": "20 kcal/84 Kj",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Proteína",
+   "quantidade": "5,0 g",
+   "vd": "7"
+  },
+  {
+   "nutriente": "L-Glutamina",
+   "quantidade": "5,0 g",
+   "vd": ""
+  }
+ ]
+}

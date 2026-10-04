@@ -1,0 +1,44 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,84 g (2 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "1,84 g",
+ "itens": [
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "180",
+   "vd": "18"
+  },
+  {
+   "nutriente": "Molibdênio (µg)",
+   "quantidade": "100",
+   "vd": "222"
+  },
+  {
+   "nutriente": "Silício (mg)",
+   "quantidade": "0,1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Metilsulfonilmetano (mg)",
+   "quantidade": "613",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido hialurônico (mg)",
+   "quantidade": "80",
+   "vd": ""
+  },
+  {
+   "nutriente": "Colágeno tipo II (mg)",
+   "quantidade": "40",
+   "vd": ""
+  },
+  {
+   "nutriente": "Alicina (mg)",
+   "quantidade": "3",
+   "vd": ""
+  }
+ ]
+}

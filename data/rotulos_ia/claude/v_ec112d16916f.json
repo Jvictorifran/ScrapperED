@@ -1,0 +1,89 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "3 g (2 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "3 g (formato linear)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "14",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "1,6",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,2",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras monoinsaturadas (g)",
+   "quantidade": "0,3",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras poli-insaturadas (g)",
+   "quantidade": "1,1",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "20",
+   "vd": "133"
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "247",
+   "vd": "706"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "20",
+   "vd": "182"
+  },
+  {
+   "nutriente": "Cafeína (mg)",
+   "quantidade": "200",
+   "vd": ""
+  }
+ ]
+}

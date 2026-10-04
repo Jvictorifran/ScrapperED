@@ -1,0 +1,714 @@
+{
+ "234e1e78ac62": [
+  {
+   "id": 3175,
+   "loja": "essential",
+   "nome": "[Mg] Complex",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/mg-complex/image-product-mg-complex-1.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/234e1e78ac62.png"
+  }
+ ],
+ "6d0045f944a0": [
+  {
+   "id": 3175,
+   "loja": "essential",
+   "nome": "[Mg] Complex",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/mg-complex/image-plates.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/6d0045f944a0.png"
+  }
+ ],
+ "8e59b3099471": [
+  {
+   "id": 3175,
+   "loja": "essential",
+   "nome": "[Mg] Complex",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/mg-complex/image-mg-complex-mobile-1.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8e59b3099471.png"
+  }
+ ],
+ "64d6599ea241": [
+  {
+   "id": 3177,
+   "loja": "essential",
+   "nome": "NAC + Glycine + Taurine",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/nac/back-01.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/64d6599ea241.jpg"
+  }
+ ],
+ "bd9a31e12441": [
+  {
+   "id": 3177,
+   "loja": "essential",
+   "nome": "NAC + Glycine + Taurine",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/nac/cena-mobile.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bd9a31e12441.png"
+  }
+ ],
+ "ed947db50672": [
+  {
+   "id": 3177,
+   "loja": "essential",
+   "nome": "NAC + Glycine + Taurine",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/nac/cena.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/ed947db50672.png"
+  }
+ ],
+ "42da98d7c5a1": [
+  {
+   "id": 3177,
+   "loja": "essential",
+   "nome": "NAC + Glycine + Taurine",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/nac/back-line-01.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/42da98d7c5a1.png"
+  }
+ ],
+ "54458a9cfe01": [
+  {
+   "id": 3177,
+   "loja": "essential",
+   "nome": "NAC + Glycine + Taurine",
+   "url": "https://essentialnutrition-upload-files.s3.amazonaws.com/site-nutrition/produtos/nac/img-02-mobile.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/54458a9cfe01.jpg"
+  }
+ ],
+ "2c0159ac17ef": [
+  {
+   "id": 3299,
+   "loja": "essential",
+   "nome": "Calm Theanine",
+   "url": "https://essentialnutrition-upload-files.s3.us-east-1.amazonaws.com/site-nutrition/produtos/calm-theanine/image-calm.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/2c0159ac17ef.png"
+  }
+ ],
+ "2d62bd6a3033": [
+  {
+   "id": 3299,
+   "loja": "essential",
+   "nome": "Calm Theanine",
+   "url": "https://essentialnutrition-upload-files.s3.us-east-1.amazonaws.com/site-nutrition/produtos/calm-theanine/image-happy.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/2d62bd6a3033.png"
+  }
+ ],
+ "f92dc6a26a66": [
+  {
+   "id": 3299,
+   "loja": "essential",
+   "nome": "Calm Theanine",
+   "url": "https://essentialnutrition-upload-files.s3.us-east-1.amazonaws.com/site-nutrition/produtos/calm-theanine/image-focus.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/f92dc6a26a66.png"
+  }
+ ],
+ "70774161bbca": [
+  {
+   "id": 2996,
+   "loja": "mixnutri",
+   "nome": "BARRA FIBERLAX MIXNUTRI - DISPLAY 12X40G",
+   "url": "https://mixnutri.fbitsstatic.net/media/1-fibras.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/70774161bbca.png"
+  }
+ ],
+ "d27e994ff1f9": [
+  {
+   "id": 2996,
+   "loja": "mixnutri",
+   "nome": "BARRA FIBERLAX MIXNUTRI - DISPLAY 12X40G",
+   "url": "https://mixnutri.fbitsstatic.net/media/3-clean-label.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d27e994ff1f9.png"
+  }
+ ],
+ "d6e13cf2c565": [
+  {
+   "id": 2996,
+   "loja": "mixnutri",
+   "nome": "BARRA FIBERLAX MIXNUTRI - DISPLAY 12X40G",
+   "url": "https://mixnutri.fbitsstatic.net/media/1-magnesio.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d6e13cf2c565.png"
+  }
+ ],
+ "6ac46502108f": [
+  {
+   "id": 2996,
+   "loja": "mixnutri",
+   "nome": "BARRA FIBERLAX MIXNUTRI - DISPLAY 12X40G",
+   "url": "https://mixnutri.fbitsstatic.net/media/foto-persona-fiberlaxpri.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/6ac46502108f.jpg"
+  }
+ ],
+ "5b6c1c96a3f1": [
+  {
+   "id": 2996,
+   "loja": "mixnutri",
+   "nome": "BARRA FIBERLAX MIXNUTRI - DISPLAY 12X40G",
+   "url": "https://mixnutri.fbitsstatic.net/media/tabela-site.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/5b6c1c96a3f1.png"
+  }
+ ],
+ "c5fba8a841d8": [
+  {
+   "id": 2997,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - LIMÃO CLÁSSICO 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/1-formula-proteina-creatina.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/c5fba8a841d8.png"
+  },
+  {
+   "id": 2998,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - TANGERINA SILVESTRE 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/1-formula-proteina-creatina.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/c5fba8a841d8.png"
+  }
+ ],
+ "8450206a8e6b": [
+  {
+   "id": 2997,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - LIMÃO CLÁSSICO 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/2-clean-label.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8450206a8e6b.png"
+  },
+  {
+   "id": 2998,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - TANGERINA SILVESTRE 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/2-clean-label.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8450206a8e6b.png"
+  },
+  {
+   "id": 3031,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/2-clean-label.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8450206a8e6b.png"
+  },
+  {
+   "id": 3032,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 200G- MIX NUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/2-clean-label.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8450206a8e6b.png"
+  }
+ ],
+ "b7567e606316": [
+  {
+   "id": 2997,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - LIMÃO CLÁSSICO 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/3-sabores.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/b7567e606316.png"
+  },
+  {
+   "id": 2998,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - TANGERINA SILVESTRE 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/3-sabores.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/b7567e606316.png"
+  },
+  {
+   "id": 3031,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/3-sabores.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/b7567e606316.png"
+  },
+  {
+   "id": 3032,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 200G- MIX NUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/3-sabores.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/b7567e606316.png"
+  }
+ ],
+ "042b20606e07": [
+  {
+   "id": 2997,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - LIMÃO CLÁSSICO 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona-bodyfort.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/042b20606e07.png"
+  },
+  {
+   "id": 2998,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - TANGERINA SILVESTRE 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona-bodyfort.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/042b20606e07.png"
+  }
+ ],
+ "ab176fbd6e0b": [
+  {
+   "id": 2997,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - LIMÃO CLÁSSICO 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/produto-bodyfort.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/ab176fbd6e0b.png"
+  },
+  {
+   "id": 2998,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - TANGERINA SILVESTRE 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/produto-bodyfort.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/ab176fbd6e0b.png"
+  }
+ ],
+ "d134249c2325": [
+  {
+   "id": 3018,
+   "loja": "mixnutri",
+   "nome": "CREATINA MONOHIDRATADA 300G MIXNUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d134249c2325.png"
+  },
+  {
+   "id": 3019,
+   "loja": "mixnutri",
+   "nome": "CREATINA MONOHIDRATADA 500G - MIXNUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d134249c2325.png"
+  }
+ ],
+ "bcb92020fa46": [
+  {
+   "id": 3021,
+   "loja": "mixnutri",
+   "nome": "ELETRO RECOVER SABOR AGUA DE COCO 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona-eletrorecover.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bcb92020fa46.png"
+  }
+ ],
+ "29ab4644a85e": [
+  {
+   "id": 3021,
+   "loja": "mixnutri",
+   "nome": "ELETRO RECOVER SABOR AGUA DE COCO 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/tabela-eletro-recover.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/29ab4644a85e.png"
+  }
+ ],
+ "ab8c4d430015": [
+  {
+   "id": 3031,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/1-vitaminas.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/ab8c4d430015.png"
+  },
+  {
+   "id": 3032,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 200G- MIX NUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/1-vitaminas.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/ab8c4d430015.png"
+  }
+ ],
+ "e7cf9f42c848": [
+  {
+   "id": 3031,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona-imunoshot.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/e7cf9f42c848.png"
+  },
+  {
+   "id": 3032,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 200G- MIX NUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/persona-imunoshot.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/e7cf9f42c848.png"
+  }
+ ],
+ "84ec98902827": [
+  {
+   "id": 3031,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 15X8G - DISPLAY",
+   "url": "https://mixnutri.fbitsstatic.net/media/tabela-imuno-stick.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/84ec98902827.png"
+  }
+ ],
+ "f86d2b3088c6": [
+  {
+   "id": 3032,
+   "loja": "mixnutri",
+   "nome": "IMUNOSHOT TANGERINA SILVESTRE 200G- MIX NUTRI",
+   "url": "https://mixnutri.fbitsstatic.net/media/tabela_imuno.gif",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/f86d2b3088c6.gif"
+  }
+ ],
+ "64bd8ef77994": [
+  {
+   "id": 2741,
+   "loja": "newmillen",
+   "nome": "BETA ALANINA 120G",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_104505740-7299c949fca8edea4c9208cbd0b8e006.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/64bd8ef77994.png"
+  }
+ ],
+ "23a194a5360f": [
+  {
+   "id": 2742,
+   "loja": "newmillen",
+   "nome": "CÚRCUMA 60 CÁPSULAS",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_104509052-c26b994064ac436e35affc72a3cf6b9a.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/23a194a5360f.png"
+  }
+ ],
+ "21104b5177b7": [
+  {
+   "id": 2746,
+   "loja": "newmillen",
+   "nome": "IRON MAN GEL FIRE CX C/6 DISPLAYS C/10 SACHÊS",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_104520293-bf642177cc7fa68f16f8f541f6b0fcff.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/21104b5177b7.png"
+  }
+ ],
+ "cee989f1033c": [
+  {
+   "id": 2750,
+   "loja": "newmillen",
+   "nome": "PROTEIN COMPLEX POUCHE 900G ( Nova Fórmula com EAA )",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/base64_img_104526824-87746be41b5246e32ceb84711887688a.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/cee989f1033c.png"
+  }
+ ],
+ "3c2e82c047c7": [
+  {
+   "id": 2750,
+   "loja": "newmillen",
+   "nome": "PROTEIN COMPLEX POUCHE 900G ( Nova Fórmula com EAA )",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/base64_img_104526824-3529574d9131486c546803821b745045.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/3c2e82c047c7.png"
+  }
+ ],
+ "d0ad49d2fb13": [
+  {
+   "id": 2753,
+   "loja": "newmillen",
+   "nome": "GLUTAMINE 100% PURE POTE 300g",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_104529752-d83815cf7d1695912d8fbb12e99f9d05.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d0ad49d2fb13.png"
+  }
+ ],
+ "8dc8cb2d7c54": [
+  {
+   "id": 2754,
+   "loja": "newmillen",
+   "nome": "IRON MAN ENERGY GEL CX C/6 DISPLAYS C/10 SACHÊS",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_104529945-9cbcf5ca294c248e98f10e8d43447012.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8dc8cb2d7c54.png"
+  }
+ ],
+ "68e10aad2798": [
+  {
+   "id": 2757,
+   "loja": "newmillen",
+   "nome": "CREATINA ATP",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_105407603-0bd6d52e6351c9309960cd823d144fef.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/68e10aad2798.png"
+  }
+ ],
+ "e8404e805304": [
+  {
+   "id": 2760,
+   "loja": "newmillen",
+   "nome": "WHEY 100% POUNCH 900g",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_163755415-9e50c446cce633225ca81e0afdeded7e.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/e8404e805304.png"
+  }
+ ],
+ "5cecbe0e3e10": [
+  {
+   "id": 2761,
+   "loja": "newmillen",
+   "nome": "WHEY 100% POTE 900g",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_163756129-9e50c446cce633225ca81e0afdeded7e.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/5cecbe0e3e10.png"
+  }
+ ],
+ "decb6b3046a7": [
+  {
+   "id": 2764,
+   "loja": "newmillen",
+   "nome": "WHEY CRISP BAR GOURMET",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/CRISP_BAR_ROTULO.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/decb6b3046a7.jpg"
+  }
+ ],
+ "65e32121f2b0": [
+  {
+   "id": 2768,
+   "loja": "newmillen",
+   "nome": "MOROSIL",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_201758215-8d37d120e3d9936f4efcaf702d1ad716.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/65e32121f2b0.png"
+  }
+ ],
+ "8b2119d8277f": [
+  {
+   "id": 2769,
+   "loja": "newmillen",
+   "nome": "C4 CAFFEINE FREE COM COLINA",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_201759239-981b6c7710095f1e304ebdf76c88fd83.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8b2119d8277f.png"
+  }
+ ],
+ "dfbd916c18a0": [
+  {
+   "id": 2770,
+   "loja": "newmillen",
+   "nome": "C4 BLACK BETA PUMP - FUSION PUNCH",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_206590732-19e6e84de40f07075fc67b778f562bf3.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/dfbd916c18a0.png"
+  }
+ ],
+ "d734daf82547": [
+  {
+   "id": 2772,
+   "loja": "newmillen",
+   "nome": "CREATINA CREAPURE",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_211588124-f586e180b89a1387289c3581a5bee1ac.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d734daf82547.png"
+  }
+ ],
+ "504cb840479b": [
+  {
+   "id": 2774,
+   "loja": "newmillen",
+   "nome": "WHEY ZERO LACTOSE",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_215486027-1fce393723a924bf23cd6abd81d556c5.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/504cb840479b.png"
+  }
+ ],
+ "f9cda4f56767": [
+  {
+   "id": 2775,
+   "loja": "newmillen",
+   "nome": "SNACK PROTEIN NEW MILLEN",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_216070940-d111b21629868dd2e5651403bfbd2eac.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/f9cda4f56767.png"
+  }
+ ],
+ "0d0a384be5f7": [
+  {
+   "id": 2776,
+   "loja": "newmillen",
+   "nome": "Trimagnésio",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/blobid0.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/0d0a384be5f7.png"
+  }
+ ],
+ "244cf005688c": [
+  {
+   "id": 2778,
+   "loja": "newmillen",
+   "nome": "MELATONINA SPRAY NEW MIND",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_222087106-feedf46272932b253be14be5bbe99065.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/244cf005688c.png"
+  }
+ ],
+ "4c295ec3fd8d": [
+  {
+   "id": 2779,
+   "loja": "newmillen",
+   "nome": "COGNBRAIN COM CAFEÍNA",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_222089640-24bdc8f571af479de433bd084c390ff5.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/4c295ec3fd8d.png"
+  }
+ ],
+ "8d158c41b826": [
+  {
+   "id": 2780,
+   "loja": "newmillen",
+   "nome": "COGNBRAIN SEM CAFEÍNA",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_222091121-31fd5751a7d6c967f2cf6aeeca0d9504.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/8d158c41b826.png"
+  }
+ ],
+ "785f9f4bd5c7": [
+  {
+   "id": 2781,
+   "loja": "newmillen",
+   "nome": "ISOLATE PROTEIN PREMIUM EM SACHÊS",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/tabela.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/785f9f4bd5c7.png"
+  }
+ ],
+ "37bc96de8928": [
+  {
+   "id": 2782,
+   "loja": "newmillen",
+   "nome": "WHEY 100% DISPLAY COM SACHÊS",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/tabela.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/37bc96de8928.jpg"
+  }
+ ],
+ "1ceac38da965": [
+  {
+   "id": 2783,
+   "loja": "newmillen",
+   "nome": "ISOLATE PROTEIN EM SACHÊS",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/base64_img_227499670-51c6ec655443e8031c99b259141b1850.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/1ceac38da965.png"
+  }
+ ],
+ "5c1bcb65cf88": [
+  {
+   "id": 2783,
+   "loja": "newmillen",
+   "nome": "ISOLATE PROTEIN EM SACHÊS",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/Tabela.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/5c1bcb65cf88.png"
+  }
+ ],
+ "b0c7eeda5f0e": [
+  {
+   "id": 2787,
+   "loja": "newmillen",
+   "nome": "COENZIMA Q10",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_273287484-95c29973c103db7d4dc9fc569e2d445e.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/b0c7eeda5f0e.png"
+  }
+ ],
+ "f07e3781ba6c": [
+  {
+   "id": 2788,
+   "loja": "newmillen",
+   "nome": "COGNMIND",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/Tabela_COGNMIND.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/f07e3781ba6c.png"
+  }
+ ],
+ "bb16c941d283": [
+  {
+   "id": 2789,
+   "loja": "newmillen",
+   "nome": "COLÁGENO TIPO II",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_279535003-9373f1b2ce2d614adde7beabcfff2233.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bb16c941d283.png"
+  }
+ ],
+ "efd81dd705dd": [
+  {
+   "id": 2790,
+   "loja": "newmillen",
+   "nome": "OVERKILL",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/tabela_nutricional.jpeg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/efd81dd705dd.jpg"
+  }
+ ],
+ "4796e8cc235b": [
+  {
+   "id": 2791,
+   "loja": "newmillen",
+   "nome": "WHEY 100% POTE 900g CHICLETE COM BANANA",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/base64_img_163756129-9e50c446cce633225ca81e0afdeded7e.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/4796e8cc235b.png"
+  }
+ ],
+ "37acb5c6008b": [
+  {
+   "id": 2792,
+   "loja": "newmillen",
+   "nome": "WHEY 100% POUNCH 900g CHICLETE COM BANANA",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/base64_img_163755415-9e50c446cce633225ca81e0afdeded7e.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/37acb5c6008b.png"
+  }
+ ],
+ "bd29c577d693": [
+  {
+   "id": 2793,
+   "loja": "newmillen",
+   "nome": "Creatina 500g Pounch",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/base64_img_294092287-04b42c808299b0b04054141cd5bc83aa.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bd29c577d693.png"
+  }
+ ],
+ "e9e0e8ff2b12": [
+  {
+   "id": 2794,
+   "loja": "newmillen",
+   "nome": "ARGININA 3800",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_299997374-45d70d7d841066a309a532e91d22bab1.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/e9e0e8ff2b12.png"
+  }
+ ],
+ "babf1cae0e7a": [
+  {
+   "id": 2799,
+   "loja": "newmillen",
+   "nome": "FIRE ORANGE",
+   "url": "https://d2r9epyceweg5n.cloudfront.net/stores/001/942/073/rte/base64_img_303970629-627ccfe5d48803a36beb39f5dbda9350.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/babf1cae0e7a.png"
+  }
+ ],
+ "d9c013a07631": [
+  {
+   "id": 2801,
+   "loja": "newmillen",
+   "nome": "Creatina Mastigável",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/rotulo.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/d9c013a07631.jpg"
+  }
+ ],
+ "47b04ffa7596": [
+  {
+   "id": 2803,
+   "loja": "newmillen",
+   "nome": "NEW SEK – DIURÉTICO SUPLEMENTO ALIMENTAR EM PÓ",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/NEW_SEK_TABELA_NUTRICIONAL.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/47b04ffa7596.png"
+  }
+ ],
+ "bc56fcee3b70": [
+  {
+   "id": 2810,
+   "loja": "newmillen",
+   "nome": "BEEF PROTEIN EM SACHÊS",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/BEEF_PROTEIN_FRUTAS_VERMELHAS.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bc56fcee3b70.png"
+  }
+ ],
+ "1bdf6a621f68": [
+  {
+   "id": 2810,
+   "loja": "newmillen",
+   "nome": "BEEF PROTEIN EM SACHÊS",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/BEEF_PROTEIN_MARACUJÁ_COM_MANGA.jpg",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/1bdf6a621f68.jpg"
+  }
+ ],
+ "34a85acb7050": [
+  {
+   "id": 2810,
+   "loja": "newmillen",
+   "nome": "BEEF PROTEIN EM SACHÊS",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/PROTEIN_MORANGO_COM_KIWI.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/34a85acb7050.png"
+  }
+ ],
+ "f4219a407db2": [
+  {
+   "id": 4850,
+   "loja": "newmillen",
+   "nome": "MASS COMPLEX 3KG POUNCH",
+   "url": "https://d1a9qnv764bsoo.cloudfront.net/stores/001/942/073/rte/blobid3.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/f4219a407db2.png"
+  }
+ ],
+ "743994a181fe": [
+  {
+   "id": 2997,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - LIMÃO CLÁSSICO 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/tabela-bodyfort.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bodyfort.png"
+  },
+  {
+   "id": 2998,
+   "loja": "mixnutri",
+   "nome": "BODYFORT - TANGERINA SILVESTRE 520G",
+   "url": "https://mixnutri.fbitsstatic.net/media/tabela-bodyfort.png",
+   "arquivo": "/private/tmp/claude-501/-Users-joaovictorifran-dev-ScrappingTcc/20db99ff-0f78-4c55-a8f9-e8944177c7a0/scratchpad/img/bodyfort.png"
+  }
+ ]
+}

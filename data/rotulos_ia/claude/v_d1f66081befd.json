@@ -1,0 +1,104 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "100 mL",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "100 mL (rótulo sem coluna de porção)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "837",
+   "vd": ""
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "93",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "68",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido caprílico (g)",
+   "quantidade": "39",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido cáprico (g)",
+   "quantidade": "24",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido láurico (g)",
+   "quantidade": "0,8",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gord. monoinsaturadas (g)",
+   "quantidade": "10",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido oleico (g)",
+   "quantidade": "10",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gord. poli-insaturadas (g)",
+   "quantidade": "14",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido linoleico (g)",
+   "quantidade": "14",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido gama-linolênico (g)",
+   "quantidade": "0,3",
+   "vd": ""
+  },
+  {
+   "nutriente": "Colesterol (mg)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": ""
+  }
+ ]
+}

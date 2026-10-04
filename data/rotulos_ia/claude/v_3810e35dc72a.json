@@ -1,0 +1,69 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "31 g (1 colher medida)",
+ "porcoes_por_embalagem": "Cerca de 29",
+ "coluna_lida": "31 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "121",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "6",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "4,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "21",
+   "vd": "42"
+  },
+  {
+   "nutriente": "Glutamina (mg)",
+   "quantidade": "4.000",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "1,4",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,8",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "56",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "169",
+   "vd": "17"
+  }
+ ]
+}

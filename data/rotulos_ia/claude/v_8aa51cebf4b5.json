@@ -1,0 +1,79 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "40 g (1 unidade)",
+ "porcoes_por_embalagem": "12",
+ "coluna_lida": "40 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "152",
+   "vd": "8"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "11",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "2,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Polióis totais (g)",
+   "quantidade": "6,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sorbitol (g)",
+   "quantidade": "3,8",
+   "vd": ""
+  },
+  {
+   "nutriente": "Maltitol (g)",
+   "quantidade": "2,6",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "12",
+   "vd": "24"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "7,5",
+   "vd": "12"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "4,1",
+   "vd": "21"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "1,8",
+   "vd": "7"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "46",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "12",
+   "vd": "80"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "40 g (1 unidade)",
+ "porcoes_por_embalagem": "12",
+ "coluna_lida": "40 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "111",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "11",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "6,2",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "1,3",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "3,6",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "1,6",
+   "vd": "8"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "12",
+   "vd": "48"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "43",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "350",
+   "vd": "83"
+  }
+ ]
+}

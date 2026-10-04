@@ -1,0 +1,59 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "8 g (1 sachê)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "8 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "6",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0,7",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0,1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Arginina (mg)",
+   "quantidade": "500",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "2,4",
+   "vd": "10"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "360",
+   "vd": "18"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "100",
+   "vd": "24"
+  },
+  {
+   "nutriente": "Potássio (mg)",
+   "quantidade": "230",
+   "vd": "7"
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "500",
+   "vd": ""
+  }
+ ]
+}

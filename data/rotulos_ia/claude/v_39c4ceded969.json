@@ -1,0 +1,19 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,63 g (1 cápsula)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "0,63 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "100",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Ferro (mg)",
+   "quantidade": "34",
+   "vd": "243"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "1,5 g (2 cápsulas)",
+ "porcoes_por_embalagem": "60",
+ "coluna_lida": "1,5 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "7",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0,8",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,6",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "10",
+   "vd": "67"
+  },
+  {
+   "nutriente": "Coenzima Q10 (mg)",
+   "quantidade": "200",
+   "vd": ""
+  }
+ ]
+}

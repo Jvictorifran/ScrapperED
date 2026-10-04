@@ -1,0 +1,30 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "5 g (1 colher medida)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "5 g",
+ "itens": [
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Glutamina (mg)",
+   "quantidade": "5.000",
+   "vd": ""
+  }
+ ],
+ "_modelo": "deepseek:deepseek-flash",
+ "_uso": {
+  "prompt_tokens": 841,
+  "completion_tokens": 108,
+  "total_tokens": 949,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 841
+ }
+}

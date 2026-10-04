@@ -1,0 +1,64 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "160 g (4 copos dosadores)",
+ "porcoes_por_embalagem": "cerca de 19",
+ "coluna_lida": "160 g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "613",
+   "vd": "31"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "137",
+   "vd": "46"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "57",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares Adicionados (g)",
+   "quantidade": "1",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "16",
+   "vd": "31"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "1",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "300",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Creatina (mg)",
+   "quantidade": "3000",
+   "vd": ""
+  }
+ ]
+}

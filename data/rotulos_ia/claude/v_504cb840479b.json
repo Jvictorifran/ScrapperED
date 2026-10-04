@@ -1,0 +1,59 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "30g (2 copos dosadores)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "30g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "120",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "3",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "2",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares Adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "22",
+   "vd": "43"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "2",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "1",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "1",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "54",
+   "vd": "3"
+  }
+ ]
+}

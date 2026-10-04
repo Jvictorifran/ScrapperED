@@ -1,0 +1,94 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "4 g (1 colher medida)",
+ "porcoes_por_embalagem": "60",
+ "coluna_lida": "4 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "6",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,6",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Tirosina (mg)",
+   "quantidade": "500",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fenilalanina (mg)",
+   "quantidade": "300",
+   "vd": ""
+  },
+  {
+   "nutriente": "Beta-alanina (mg)",
+   "quantidade": "300",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "80",
+   "vd": "80"
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "8",
+   "vd": "53"
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "124",
+   "vd": "354"
+  },
+  {
+   "nutriente": "Selênio (µg)",
+   "quantidade": "10",
+   "vd": "17"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "7",
+   "vd": "64"
+  },
+  {
+   "nutriente": "Ácido clorogênico (mg)",
+   "quantidade": "50",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cafeína (mg)",
+   "quantidade": "166",
+   "vd": ""
+  },
+  {
+   "nutriente": "Antocianinas (mg)",
+   "quantidade": "2,9",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proantocianidinas (mg)",
+   "quantidade": "48",
+   "vd": ""
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "30 g (1 colher medida)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "30 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "104",
+   "vd": "5"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0,7",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "25",
+   "vd": "50"
+  },
+  {
+   "nutriente": "Glutamina (mg)",
+   "quantidade": "4.337",
+   "vd": ""
+  },
+  {
+   "nutriente": "Alanina (mg)",
+   "quantidade": "1.250",
+   "vd": ""
+  },
+  {
+   "nutriente": "Arginina (mg)",
+   "quantidade": "537",
+   "vd": ""
+  },
+  {
+   "nutriente": "Ácido Aspártico (mg)",
+   "quantidade": "2.678",
+   "vd": ""
+  },
+  {
+   "nutriente": "Glicina (mg)",
+   "quantidade": "408",
+   "vd": ""
+  },
+  {
+   "nutriente": "Histidina (mg)",
+   "quantidade": "383",
+   "vd": ""
+  },
+  {
+   "nutriente": "Isoleucina (mg)",
+   "quantidade": "1.633",
+   "vd": ""
+  },
+  {
+   "nutriente": "Leucina (mg)",
+   "quantidade": "2.627",
+   "vd": ""
+  },
+  {
+   "nutriente": "Lisina (mg)",
+   "quantidade": "2.575",
+   "vd": ""
+  },
+  {
+   "nutriente": "Metionina (mg)",
+   "quantidade": "535",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fenilalanina (mg)",
+   "quantidade": "765",
+   "vd": ""
+  },
+  {
+   "nutriente": "Prolina (mg)",
+   "quantidade": "1.555",
+   "vd": ""
+  },
+  {
+   "nutriente": "Serina (mg)",
+   "quantidade": "1.174",
+   "vd": ""
+  },
+  {
+   "nutriente": "Treonina (mg)",
+   "quantidade": "1.709",
+   "vd": ""
+  },
+  {
+   "nutriente": "Tirosina (mg)",
+   "quantidade": "714",
+   "vd": ""
+  },
+  {
+   "nutriente": "Valina (mg)",
+   "quantidade": "1.402",
+   "vd": ""
+  },
+  {
+   "nutriente": "Hidroxiprolina (mg)",
+   "quantidade": "0,33",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cistina (mg)",
+   "quantidade": "612",
+   "vd": ""
+  },
+  {
+   "nutriente": "Triptofano (mg)",
+   "quantidade": "605",
+   "vd": ""
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "42",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "129",
+   "vd": "13"
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "124",
+   "vd": "354"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "14",
+   "vd": "127"
+  },
+  {
+   "nutriente": "Creatina (mg)",
+   "quantidade": "3.000",
+   "vd": ""
+  }
+ ]
+}

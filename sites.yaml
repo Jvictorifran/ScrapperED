@@ -1,0 +1,164 @@
+# Registro das lojas. Cada entrada aponta para um adapter e seus parâmetros.
+#
+#   delay   intervalo mínimo entre requisições ao host, em segundos
+#   enrich  busca a página do produto quando a API não traz nutricional
+#   include regex: só visita URLs do sitemap que casem
+#   exclude regex: ignora URLs do sitemap que casem
+#   limit   máximo de URLs (útil para teste)
+#
+# Dr. Peanut (Grupo C) tem proteção anti-bot que exige navegador
+# e estão no fim do arquivo, desativados.
+
+defaults:
+  delay: 1.0
+
+sites:
+  # --- VTEX: API pública de catálogo -------------------------------------
+  maxtitanium:
+    brand: Max Titanium
+    adapter: vtex
+    host: www.maxtitanium.com.br
+    delay: 1.3
+
+  probiotica:
+    brand: Probiótica
+    adapter: vtex
+    host: www.probiotica.com.br
+    delay: 1.3
+
+  blackskull:
+    brand: Black Skull
+    adapter: vtex
+    host: www.blackskullusa.com.br
+    delay: 1.3
+
+  vitafor:
+    brand: Vitafor
+    adapter: vtex
+    host: www.vitafor.com.br
+    delay: 1.5
+
+  atlhetica:
+    brand: Atlhetica Nutrition
+    adapter: vtex
+    host: www.atlheticanutrition.com.br
+    delay: 1.5
+    page_size: 25        # a loja recusa a janela padrão de 50
+
+  nutrify:
+    brand: Nutrify
+    adapter: vtex
+    host: www.nutrify.com.br
+    delay: 1.3
+
+  equaliv:
+    brand: Equaliv
+    adapter: vtex
+    host: www.lojaequaliv.com.br   # equaliv.com.br é só o institucional (WordPress)
+    delay: 1.3
+
+  # --- Shopify: /products.json ------------------------------------------
+  ftw:
+    brand: FTW Suplementos
+    adapter: shopify
+    host: ftw.com.br
+
+  soldiers:
+    brand: Soldiers Nutrition
+    adapter: shopify
+    host: soldiersnutrition.com.br
+
+  bold:
+    brand: Bold Snacks
+    adapter: shopify
+    host: www.boldsnacks.com.br
+    enrich: true          # nutricional só existe na página do produto
+
+  urso:
+    brand: Urso (Cimed)
+    adapter: shopify
+    host: www.ursocimed.com.br
+    enrich: true
+
+  # --- Shopify headless: Storefront GraphQL -----------------------------
+  integralmedica:
+    brand: Integralmédica
+    adapter: shopify_storefront
+    host: www.integralmedica.com.br
+    delay: 0.8
+
+  # --- WooCommerce: Store API -------------------------------------------
+  adaptogen:
+    brand: Adaptogen Science
+    adapter: woo
+    host: adaptogen.com.br
+
+  # --- Sem API: sitemap + JSON-LD/microdata -----------------------------
+  dux:
+    brand: Dux Nutrition
+    adapter: sitemap
+    host: duxhumanhealth.com
+    include: /produtos/.+
+    delay: 1.2
+
+  newmillen:
+    brand: New Millen
+    adapter: sitemap
+    host: loja.newmillen.com.br      # newmillen.com.br é só institucional
+    include: /produtos/.+
+    delay: 1.2
+
+  nutrata:
+    brand: Nutrata
+    adapter: sitemap
+    host: loja.nutrata.com.br
+    sitemaps:
+      - https://loja.nutrata.com.br/loja/arquivos/1305881/sitemaps/sitemap_1.xml
+    delay: 1.2
+
+  bodyaction:
+    brand: Bodyaction
+    adapter: sitemap
+    host: www.bodyaction.com.br
+    sitemaps:
+      - https://www.bodyaction.com.br/loja/arquivos/971829/sitemaps/sitemap_1.xml
+    delay: 1.2
+
+  mixnutri:
+    brand: MixNutri
+    adapter: sitemap
+    host: www.mixnutri.com.br
+    include: /produto/.+
+    delay: 1.2
+
+  essential:
+    brand: Essential Nutrition
+    adapter: magento        # sem JSON-LD; nutricional só via browser
+    host: www.essentialnutrition.com.br
+    sitemaps:
+      - https://www.essentialnutrition.com.br/media/sitemap.xml
+    delay: 1.2
+
+  # --- wap.store: sitemap + JSON-LD, atrás da verificação noc.org ----------
+  growth:
+    brand: Growth Supplements
+    adapter: sitemap
+    host: www.gsuplementos.com.br
+    sitemaps:
+      - https://www.gsuplementos.com.br/xml/sitemap.xml
+    # Páginas de ~800 KB: das 1.425 URLs do sitemap, 916 são roupas e
+    # acessórios, que a classificação poria fora do escopo de todo jeito.
+    # Pulá-las poupa ~700 MB por coleta. Diferente das outras lojas, onde se
+    # coleta tudo — registrar na metodologia.
+    exclude: '/(?:camiseta|camisa|regata|cropped|top|short|shorts|bermuda|legging|calca|moletom|jaqueta|corta-vento|bone|viseira|meia|chinelo|tenis|macaquinho|macacao|body|sutia|jogger|blusa|vestido|saia|conjunto|bolsa|mala|mochila|necessaire|garrafa|squeeze|coqueteleira|shaker|copo|caneca|toalha|luva|munhequeira|strap|cinto|porta|chaveiro|gift-card|vale-presente|camisao|polo|casaco|manga|tank)\b'
+    usar_canonical: true     # o sitemap repete o mesmo kit em várias URLs
+    delay: 1.5
+
+# --- Grupo C: exigem browser headless (Playwright) ----------------------
+# Desativados por enquanto. Ver RECON.md para a proteção de cada um.
+bloqueados:
+  drpeanut:
+    brand: Dr. Peanut
+    host: drpeanut.com.br
+    protecao: "Vercel Security Checkpoint (429)"
+

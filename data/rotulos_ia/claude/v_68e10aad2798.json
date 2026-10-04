@@ -1,0 +1,24 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "6g (1 scoop)",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "Quantidade por porção",
+ "itens": [
+  {
+   "nutriente": "Valor Energético",
+   "quantidade": "24,0 Kcal / 100,0 kJ",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Carboidratos",
+   "quantidade": "3,0 g",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Creatina",
+   "quantidade": "3,0 g",
+   "vd": ""
+  }
+ ]
+}

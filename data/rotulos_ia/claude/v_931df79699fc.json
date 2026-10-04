@@ -1,0 +1,139 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "2,25 g (3 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "2,25 g",
+ "itens": [
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Arginina (mg)",
+   "quantidade": "180",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina A (µg)",
+   "quantidade": "2.623",
+   "vd": "328"
+  },
+  {
+   "nutriente": "Vitamina D (µg)",
+   "quantidade": "50",
+   "vd": "333"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "30",
+   "vd": "200"
+  },
+  {
+   "nutriente": "Vitamina K (µg)",
+   "quantidade": "120",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Vitamina C (mg)",
+   "quantidade": "240",
+   "vd": "240"
+  },
+  {
+   "nutriente": "Vitamina B1 (mg)",
+   "quantidade": "2",
+   "vd": "167"
+  },
+  {
+   "nutriente": "Vitamina B2 (mg)",
+   "quantidade": "2,7",
+   "vd": "225"
+  },
+  {
+   "nutriente": "Vitamina B3 (mg)",
+   "quantidade": "30",
+   "vd": "200"
+  },
+  {
+   "nutriente": "Vitamina B5 (mg)",
+   "quantidade": "5,6",
+   "vd": "112"
+  },
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "5",
+   "vd": "385"
+  },
+  {
+   "nutriente": "Biotina (µg)",
+   "quantidade": "45",
+   "vd": "150"
+  },
+  {
+   "nutriente": "Ácido fólico (µg)",
+   "quantidade": "798",
+   "vd": "200"
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "9,9",
+   "vd": "413"
+  },
+  {
+   "nutriente": "Cobre (µg)",
+   "quantidade": "1.000",
+   "vd": "111"
+  },
+  {
+   "nutriente": "Cromo (µg)",
+   "quantidade": "120",
+   "vd": "343"
+  },
+  {
+   "nutriente": "Ferro (mg)",
+   "quantidade": "30",
+   "vd": "214"
+  },
+  {
+   "nutriente": "Iodo (µg)",
+   "quantidade": "150",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Magnésio (mg)",
+   "quantidade": "63",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Manganês (mg)",
+   "quantidade": "1,6",
+   "vd": "53"
+  },
+  {
+   "nutriente": "Molibdênio (µg)",
+   "quantidade": "45",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Selênio (µg)",
+   "quantidade": "75",
+   "vd": "125"
+  },
+  {
+   "nutriente": "Zinco (mg)",
+   "quantidade": "15",
+   "vd": "136"
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "278",
+   "vd": ""
+  },
+  {
+   "nutriente": "Hidroxitirosol (mg)",
+   "quantidade": "7,3",
+   "vd": ""
+  }
+ ]
+}

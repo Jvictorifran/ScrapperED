@@ -1,0 +1,59 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "30 g (1 sachê)",
+ "porcoes_por_embalagem": "",
+ "coluna_lida": "Quantidade por porção",
+ "itens": [
+  {
+   "nutriente": "Valor Energético",
+   "quantidade": "84 kcal / 336 kJ",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Carboidratos",
+   "quantidade": "20 g",
+   "vd": "7"
+  },
+  {
+   "nutriente": "Proteínas",
+   "quantidade": "1,0 g",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio",
+   "quantidade": "60 mg",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Potássio",
+   "quantidade": "30 mg",
+   "vd": ""
+  },
+  {
+   "nutriente": "Vitamina C",
+   "quantidade": "6,75 mg",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Vitamina B3",
+   "quantidade": "2,4 mg",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Vitamina B5",
+   "quantidade": "0,75 mg",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Vitamina B6",
+   "quantidade": "0,2 mg",
+   "vd": "15"
+  },
+  {
+   "nutriente": "Vitamina B12",
+   "quantidade": "0,36 mg",
+   "vd": "15"
+  }
+ ]
+}

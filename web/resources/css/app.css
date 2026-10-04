@@ -1,0 +1,176 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+/*
+ * Tokens. Barras do gráfico validadas com o validador de paleta (dataviz):
+ * #2340C8 sobre #F2F4F1 e #6A80F0 sobre #0F1217 passam faixa de luminosidade,
+ * croma e contraste >= 3:1.
+ */
+:root {
+    --papel: #f2f4f1;
+    --cartao: #ffffff;
+    --tinta: #12161d;
+    --tinta-2: #4a525d;
+    --tinta-3: #6b7380;
+    --linha: #d3d8d0;
+    --linha-forte: #12161d;
+    --acento: #2340c8;
+    --acento-texto: #1f37ad;
+    --barra: #2340c8;
+    --trilho: #e2e6df;
+    --ok: #1e7b4f;
+    --nao: #8a3b2e;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --papel: #0f1217;
+        --cartao: #161a21;
+        --tinta: #e7eaee;
+        --tinta-2: #b3bac4;
+        --tinta-3: #8b939e;
+        --linha: #2a313b;
+        --linha-forte: #e7eaee;
+        --acento: #6a80f0;
+        --acento-texto: #9aabff;
+        --barra: #6a80f0;
+        --trilho: #222831;
+        --ok: #5cc493;
+        --nao: #e59a8b;
+    }
+}
+
+@theme inline {
+    --font-display: 'Archivo', ui-sans-serif, system-ui, sans-serif;
+    --font-sans: 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+    --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+    --color-papel: var(--papel);
+    --color-cartao: var(--cartao);
+    --color-tinta: var(--tinta);
+    --color-tinta-2: var(--tinta-2);
+    --color-tinta-3: var(--tinta-3);
+    --color-linha: var(--linha);
+    --color-linha-forte: var(--linha-forte);
+    --color-acento: var(--acento);
+    --color-acento-texto: var(--acento-texto);
+    --color-barra: var(--barra);
+    --color-trilho: var(--trilho);
+    --color-ok: var(--ok);
+    --color-nao: var(--nao);
+}
+
+@layer base {
+    body {
+        background: var(--papel);
+        color: var(--tinta);
+        font-family: var(--font-sans);
+        -webkit-font-smoothing: antialiased;
+    }
+
+    :focus-visible {
+        outline: 2px solid var(--acento);
+        outline-offset: 2px;
+    }
+
+    a {
+        color: var(--acento-texto);
+    }
+}
+
+@layer components {
+    /* títulos em Archivo condensada, como letreiro de embalagem */
+    .titulo {
+        font-family: var(--font-display);
+        font-stretch: 75%;
+        font-weight: 800;
+        letter-spacing: -0.01em;
+        line-height: 0.95;
+    }
+
+    .rotulo-pequeno {
+        font-family: var(--font-display);
+        font-stretch: 100%;
+        font-size: 0.6875rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--tinta-3);
+    }
+
+    .num {
+        font-family: var(--font-mono);
+        font-variant-numeric: tabular-nums;
+    }
+
+    .campo {
+        width: 100%;
+        border: 1px solid var(--linha);
+        background: var(--cartao);
+        color: var(--tinta);
+        border-radius: 6px;
+        padding: 0.45rem 0.6rem;
+        font-size: 0.875rem;
+    }
+
+    .campo:focus {
+        outline: 2px solid var(--acento);
+        outline-offset: 0;
+        border-color: transparent;
+    }
+
+    /*
+     * Assinatura: a tabela de Informação Nutricional no padrão da Anvisa
+     * (RDC 429/2020) — fundo branco, borda e filetes pretos, título em caixa
+     * alta. Fica branca também no modo escuro, como o rótulo real.
+     */
+    .rotulo-anvisa {
+        background: #fff;
+        color: #000;
+        border: 2px solid #000;
+        padding: 0.5rem 0.625rem 0.625rem;
+        font-family: 'Archivo', sans-serif;
+        font-stretch: 87.5%;
+    }
+
+    .rotulo-anvisa h3 {
+        font-weight: 900;
+        font-size: 1.05rem;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+        padding-bottom: 0.25rem;
+        border-bottom: 1px solid #000;
+    }
+
+    .rotulo-anvisa table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.8125rem;
+    }
+
+    .rotulo-anvisa thead th {
+        font-weight: 800;
+        border-bottom: 6px solid #000;
+        padding: 0.25rem 0;
+    }
+
+    .rotulo-anvisa tbody td {
+        border-bottom: 1px solid #000;
+        padding: 0.2rem 0;
+    }
+
+    .rotulo-anvisa tbody tr:last-child td {
+        border-bottom: 3px solid #000;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        transition: none !important;
+        animation: none !important;
+    }
+}

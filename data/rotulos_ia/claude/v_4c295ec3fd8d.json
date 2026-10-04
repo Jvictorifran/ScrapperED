@@ -1,0 +1,69 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "5g (1 copo dosador)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "5g",
+ "itens": [
+  {
+   "nutriente": "Valor Energético (kcal)",
+   "quantidade": "9",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "2,2",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares Totais (g)",
+   "quantidade": "1,9",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "6",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Colina (mg)",
+   "quantidade": "300",
+   "vd": "55"
+  },
+  {
+   "nutriente": "Tirosina (mg)",
+   "quantidade": "300",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cafeína (mg)",
+   "quantidade": "50",
+   "vd": ""
+  },
+  {
+   "nutriente": "Coenzima Q10 (mg)",
+   "quantidade": "100",
+   "vd": ""
+  },
+  {
+   "nutriente": "Taurina (mg)",
+   "quantidade": "800",
+   "vd": ""
+  },
+  {
+   "nutriente": "Inositol (mg)",
+   "quantidade": "150",
+   "vd": ""
+  },
+  {
+   "nutriente": "Fosfatidilserina (mg)",
+   "quantidade": "50",
+   "vd": ""
+  }
+ ]
+}

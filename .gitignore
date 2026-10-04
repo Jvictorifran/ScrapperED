@@ -1,0 +1,26 @@
+.venv*
+__pycache__/
+*.pyc
+data/*.sqlite3
+data/cache/
+
+# chaves de API (IA para ler rótulos)
+.env
+
+# execução agendada (windows/coletar.ps1)
+logs/
+data/coleta.lock
+
+# arquivos auxiliares do SQLite e exportações regeradas a cada coleta
+data/*.sqlite3-*
+data/produtos.csv
+data/produtos.json
+
+# só para o desenvolvimento (notas internas e ferramentas de IA); não vão para o cliente
+CONTEXTO.md
+RECON.md
+web/CLAUDE.md
+web/AGENTS.md
+web/.claude/
+web/.agents/
+web/.mcp.json

@@ -1,0 +1,44 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "26 g (1 medida dosadora)",
+ "porcoes_por_embalagem": "20",
+ "coluna_lida": "26 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "81",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "2,2",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0,1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0,1",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "18",
+   "vd": "36"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "85",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Creatina (mg)",
+   "quantidade": "3000",
+   "vd": ""
+  }
+ ]
+}

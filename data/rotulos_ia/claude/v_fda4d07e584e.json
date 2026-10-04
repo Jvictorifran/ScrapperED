@@ -1,0 +1,44 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,75 g (1 cápsula)",
+ "porcoes_por_embalagem": "60",
+ "coluna_lida": "0,75 g",
+ "itens": [
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0,3",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gord. saturadas (g)",
+   "quantidade": "0,3",
+   "vd": "2"
+  },
+  {
+   "nutriente": "Gord. trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Vitamina E (mg)",
+   "quantidade": "10",
+   "vd": "67"
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "4,8",
+   "vd": "200"
+  },
+  {
+   "nutriente": "Selênio (µg)",
+   "quantidade": "34",
+   "vd": "57"
+  },
+  {
+   "nutriente": "Curcumina (mg)",
+   "quantidade": "130",
+   "vd": ""
+  }
+ ]
+}

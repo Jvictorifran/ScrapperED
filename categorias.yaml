@@ -1,0 +1,184 @@
+# Classificação dos produtos por palavras-chave.
+#
+# Cada produto recebe uma `categoria` e, por ela, um `grupo`. Quando várias
+# categorias casam no mesmo texto, vence:
+#   1. a marcada com `prioridade: true` (formatos: "Whey Crisp Bar" é barra);
+#   2. senão, a que casa mais cedo no texto — o substantivo principal abre o
+#      nome em português ("Creatina 300g - Whey Nerd" é creatina, "Whey Nerd"
+#      é a marca; "Pré-Treino Bone Crusher" não é boné);
+#   3. no empate, a que vem antes neste arquivo.
+#
+# Os termos são comparados sem acento e sem diferença de maiúscula, como
+# palavra inteira. Podem usar regex: "pre.?treino" casa "pré-treino",
+# "pre treino" e "pretreino".
+#
+#   termos   casam -> esta categoria
+#   exceto   se algum casar, esta categoria é pulada
+#
+# O texto testado é, em ordem: nome do produto; categorias da loja; início da
+# descrição; início da lista de ingredientes (pela rotulagem da Anvisa os
+# ingredientes vêm em ordem decrescente de quantidade, então o primeiro é o
+# principal). O primeiro que casar define a categoria, e de qual deles veio fica
+# registrado em `classificacao_fonte`.
+#
+# Grupos:
+#   proteina    whey e demais produtos à base de proteína      (foco do TCC)
+#   suplemento  demais suplementos                              (foco do TCC)
+#   alimento    snacks e alimentos sem apelo proteico
+#   fora        vestuário e acessórios — fora do escopo
+
+# Kits e combos levam o tipo "kit" mas continuam sendo classificados pelo
+# conteúdo ("Kit Whey + Creatina" -> categoria whey, tipo kit).
+kit:
+  termos: ['kit', 'combo', 'pack \d+ ?x', 'kit com \d', 'duo']
+
+categorias:
+  # --- fora do escopo -------------------------------------------------------
+  cosmetico:
+    grupo: fora
+    termos: ['propanodiol', 'propanediol', 'aqua', 'fps \d+', 'espuma facial',
+             'suncare', 'bodycare', 'skincare', 'noorskin', 'dermatologicamente', 'serum', 'desodorante', 'deo balance', 'hidratante facial']
+
+  vestuario:
+    grupo: fora
+    termos: ['bermudao', 'blusao', 'cueca', 'cuecas', 'touca', 'gorro', 'tshirt', 't shirt', 'shortinho',
+             'camiseta', 'camisa', 'regata', 'cropped', 'top(?! whey)', 'bermuda',
+             'shorts?', 'legging', 'calca', 'moletom', 'jaqueta',
+             'corta.?vento', 'bone', 'viseira', 'meias?', 'chinelo', 'tenis',
+             'macaquinho', 'macacao', 'sutia', 'jogger', 'oversized',
+             'dry ?fit', 'manga longa', 'vestuario', 'roupas?', 'luva',
+             'munhequeira', 'toalha']
+
+  acessorio:
+    grupo: fora
+    termos: ['cinturao', 'faixa', 'marmiteira', 'mini band', 'shoulder bag', 'balanca', 'amarrador',
+             'bonecos?', 'colecionave\w*', 'gym bag', 'lata colecionavel',
+             'coqueteleira', 'shaker', 'squeeze', 'garrafa', 'galao',
+             'gym tank', 'copo', 'caneca', 'porta.?capsulas?', 'porta.?po',
+             'mochila', 'bolsa', 'necessaire', 'blender bottle', 'infusor',
+             'gift', 'brinde', 'chaveiro', 'adesivo', 'toalha', 'cinto',
+             'strap', 'elastico', 'acessorios?', 'garrafinha', 'pote dosador',
+             'gift ?card', 'cartao presente', 'vale.?presente']
+
+  # --- proteína -------------------------------------------------------------
+  barra_proteica:
+    grupo: proteina
+    prioridade: true
+    termos: ['barras?', 'barrinhas?', 'bar', 'wafers?', 'protein crisp',
+             'crisp bar', 'cookies? proteic\w*', 'brownie proteic\w*',
+             'alfajor']
+
+  snack_proteico:
+    grupo: proteina
+    prioridade: true
+    termos: ['snack protein', 'salgado proteico', 'chips proteic\w*',
+             'protein snack', 'crackers?', 'biscoitos?', 'pasta de amendoim',
+             'pasta de castanha', 'creme de amendoim', 'peanut butter',
+             'pao proteico', 'panqueca', 'crepioca', 'mousse proteic\w*',
+             'pudim proteic\w*', 'protein chips']
+
+  bebida_proteica:
+    grupo: proteina
+    prioridade: true
+    termos: ['bebida lactea',
+             'bebida proteica', 'protein drink', 'shake pronto',
+             'iogurte proteico', 'leite proteico', '\d+ ?ml.{0,25}protein',
+             'protein.{0,25}\d+ ?ml']
+    exceto: ['pre.?treino', 'energetico']
+
+  whey:
+    grupo: proteina
+    termos: ['soro d[eo] leite',
+             'whey', 'isolate', 'wpc', 'wpi', 'wph', '\bw ?100\b', 'isolate protein',
+             'iso whey', 'tasty iso', 'isofort',
+             'whey protein isolado e hidrolisado']
+
+  proteina_vegetal:
+    grupo: proteina
+    termos: ['proteina vegetal', 'protein vegan\w*', 'vegan protein',
+             'veggie protein', 'plant protein', 'proteina de ervilha',
+             'proteina de arroz', 'pea protein', 'vegano protein', 'vegana']
+
+  proteina_outras:
+    grupo: proteina
+    termos: ['caseina', 'albumina', 'beef protein', 'beef', 'carne protein',
+             'protein complex', 'hit protein', 'naked protein', 'soup protein',
+             'protein blend', 'proteina', 'proteinas', 'protein',
+             'colageno hidrolisado proteico']
+    exceto: ['colageno', 'hipercalorico', 'mass']
+
+  hipercalorico:
+    grupo: proteina
+    termos: ['hipercalorico', 'hiper ?mass', 'mass', 'gainers?',
+             'bodyfort', 'ganho de massa']
+
+  # --- demais suplementos ---------------------------------------------------
+  creatina:
+    grupo: suplemento
+    termos: ['crealift',
+             'creatina', 'creatine', 'creapure', 'creatin']
+
+  pre_treino:
+    grupo: suplemento
+    termos: ['pre.?treino', 'pre.?workout', 'pre.?work', '\bc4\b', 'pump',
+             'n ?o ?xplosion', 'oxido nitrico', 'beta.?alanina', 'beta action',
+             'arginina', 'citrulina', 'cafeina', 'energetico', 'energy(?! gel)']
+
+  aminoacido:
+    grupo: suplemento
+    termos: ['glutamin\w*', 'amino\w*', 'nac', 'glicina', 'glycine',
+             'bcaa', 'glutamina', 'eaa', 'aminoacidos?', 'amino', 'leucina',
+             'hmb', 'taurina', 'carnitina', 'l.?carnitina', 'triptofano',
+             'tirosina']
+
+  colageno:
+    grupo: suplemento
+    termos: ['colageno', 'collagen', 'verisol', 'peptan']
+
+  termogenico:
+    grupo: suplemento
+    termos: ['termogenico', 'thermo', 'termo', 'lipo', '\bfire\b',
+             'fat burner', 'queimador', 'cha verde', 'chitosana']
+
+  carboidrato:
+    grupo: suplemento
+    termos: ['carb\w*', 'batata doce', 'energel', 'hidraton', 'eletro\w*', 'recharge', 'intra.?workout', 'sais minerais', 'hidratacao', 'mct', 'tcm', 'triglicerideos de cadeia media',
+             'carbo', 'maltodextrina', 'dextrose', 'palatinose', 'waxy maize',
+             'gel', 'energy gel', 'isotonico', 'hidrotonico', 'hydro\w*',
+             'repositor']
+
+  omega:
+    grupo: suplemento
+    termos: ['omega', 'fish oil', 'oleo de peixe', 'krill', 'dha', 'epa',
+             'omegafor']
+
+  vitamina_mineral:
+    grupo: suplemento
+    termos: ['b complex', 'mg complex', 'fe complex', 'vitamini\w*', 'inositol', 'silicio', 'hsn',
+             'vitamina', 'biotina', '\w*magnesio', 'vitaminas', 'vit', 'multivitaminico',
+             'polivitaminico', 'magnesio', 'mag.?3', 'zinco', 'ferro',
+             'calcio', 'potassio', 'selenio', 'zma', 'cromo', 'iodo', 'b12',
+             'd3', '\bk2\b', 'complexo b', 'minerais', 'a.?z']
+
+  outros_suplementos:
+    grupo: suplemento
+    termos: ['astaxantina', 'zeaxantina', 'msm', 'optimsm',
+             'colostro', 'colosfort', 'teanina', 'theanine', 'melatonin\w*', 'enzimas?', 'enzy\w*', 'ribose', 'golden milk', 'imuno\w*', 'tea', 'd manose', 'cranberry', 'borragem', 'simfort', 'probiotic\w*',
+             'melatonina', 'curcuma', 'curcumina', 'coenzima', 'q10',
+             'probiotico', 'prebiotico', 'fibras?', 'psyllium', 'ashwagandha',
+             'maca peruana', 'spirulina', 'clorela', 'propolis', 'tribulus',
+             'testosterone', 'test on', 'booster', 'nootropico', 'cognitiv\w*',
+             'mind', 'ginseng', 'resveratrol', 'glp.?1', 'saciedade', 'detox',
+             'superfood', 'greens', 'beterraba', 'levedura',
+             'nutritional yeast', 'capsulas?', 'caps', 'comprimidos?',
+             'softgels?', 'tabletes?', 'suplementos?', 'suplementacao']
+
+  # --- alimentos sem apelo proteico ------------------------------------------
+  # sabores (chocolate, doce de leite, café, cookie) NÃO entram aqui: "100%
+  # Beef 900g Chocolate" virava alimento pelo sabor
+  alimento:
+    grupo: alimento
+    termos: ['coffee', 'xylitol', 'xilitol', 'sweetlift',
+             'granola', 'aveia', 'cha', 'azeite', 'oleo de coco', 'ghee', 'farinha', 'tapioca',
+             'cereal', 'sobremesa', 'geleia', 'biscoito', 'bolo', 'pipoca', 'snack', 'snacks', 'caixa mix', 'caixa mista',
+             'achocolatado', 'sorvete', 'refrigerante', 'adocante']

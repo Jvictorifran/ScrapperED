@@ -1,0 +1,24 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,88 g (1 cápsula)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "0,88 g",
+ "itens": [
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "N-Acetil L-Cisteína (mg)",
+   "quantidade": "600",
+   "vd": ""
+  },
+  {
+   "nutriente": "Cisteína (mg)",
+   "quantidade": "444",
+   "vd": ""
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "0,75 g (1 cápsula)",
+ "porcoes_por_embalagem": "60",
+ "coluna_lida": "0,75 g (≥ 19 anos, formato linear)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "5",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "0,5",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,5",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Vitamina D3 (µg)",
+   "quantidade": "50",
+   "vd": "333"
+  }
+ ]
+}

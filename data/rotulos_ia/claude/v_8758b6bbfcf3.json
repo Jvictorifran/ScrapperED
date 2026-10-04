@@ -1,0 +1,64 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "31 g (1 col. medida)",
+ "porcoes_por_embalagem": "Cerca de 29",
+ "coluna_lida": "31 g (≥ 19 anos)",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "126",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,9",
+   "vd": "1"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "1,4",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "24",
+   "vd": "48"
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "2,5",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "1,5",
+   "vd": "8"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "57",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Cálcio (mg)",
+   "quantidade": "119",
+   "vd": "12"
+  }
+ ]
+}

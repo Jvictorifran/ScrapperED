@@ -1,0 +1,30 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "2,52 g (4 cápsulas)",
+ "porcoes_por_embalagem": "30",
+ "coluna_lida": "2,52 g",
+ "itens": [
+  {
+   "nutriente": "Vitamina B6 (mg)",
+   "quantidade": "1,3",
+   "vd": "100"
+  },
+  {
+   "nutriente": "Carnitina (mg)",
+   "quantidade": "1.384",
+   "vd": ""
+  }
+ ],
+ "_modelo": "deepseek:deepseek-flash",
+ "_uso": {
+  "prompt_tokens": 838,
+  "completion_tokens": 116,
+  "total_tokens": 954,
+  "prompt_tokens_details": {
+   "cached_tokens": 0
+  },
+  "prompt_cache_hit_tokens": 0,
+  "prompt_cache_miss_tokens": 838
+ }
+}

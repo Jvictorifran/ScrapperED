@@ -1,0 +1,79 @@
+{
+ "tem_tabela": true,
+ "motivo": "",
+ "porcao": "30 g (1 colher medida)",
+ "porcoes_por_embalagem": "15",
+ "coluna_lida": "30 g",
+ "itens": [
+  {
+   "nutriente": "Valor energético (kcal)",
+   "quantidade": "123",
+   "vd": "6"
+  },
+  {
+   "nutriente": "Carboidratos (g)",
+   "quantidade": "1,3",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Açúcares totais (g)",
+   "quantidade": "0",
+   "vd": ""
+  },
+  {
+   "nutriente": "Açúcares adicionados (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Poliois totais (g)",
+   "quantidade": "1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Xilitol (g)",
+   "quantidade": "1",
+   "vd": ""
+  },
+  {
+   "nutriente": "Proteínas (g)",
+   "quantidade": "24",
+   "vd": "48"
+  },
+  {
+   "nutriente": "Leucina (mg)",
+   "quantidade": "2.423",
+   "vd": ""
+  },
+  {
+   "nutriente": "Gorduras totais (g)",
+   "quantidade": "2,6",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Gorduras saturadas (g)",
+   "quantidade": "0,5",
+   "vd": "3"
+  },
+  {
+   "nutriente": "Gorduras trans (g)",
+   "quantidade": "0",
+   "vd": "0"
+  },
+  {
+   "nutriente": "Fibras alimentares (g)",
+   "quantidade": "0,9",
+   "vd": "4"
+  },
+  {
+   "nutriente": "Sódio (mg)",
+   "quantidade": "219",
+   "vd": "11"
+  },
+  {
+   "nutriente": "Vitamina B12 (µg)",
+   "quantidade": "1,3",
+   "vd": "54"
+  }
+ ]
+}
