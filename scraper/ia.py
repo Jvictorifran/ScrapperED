@@ -164,14 +164,24 @@ def _ler_compativel(leitor: Leitor, dados: bytes, tipo: str, instrucao: str, esq
         "response_format": {"type": "json_schema",
                             "json_schema": {"name": "rotulo", "schema": esquema, "strict": True}},
     }
-    resp = _post(leitor, corpo)
-    if resp.status_code == 400 and re.search(r"response_format|json_schema", resp.text, re.I):
-        # nem todo provedor aceita esquema estrito: cai para JSON livre com o
-        # esquema descrito no texto
+
+    def json_livre() -> None:
+        # nem todo provedor aceita esquema estrito: JSON livre com o esquema
+        # descrito no texto
         corpo["response_format"] = {"type": "json_object"}
         corpo["messages"][0]["content"][1]["text"] = (
             f"{instrucao}\n\nResponda só com um objeto JSON neste esquema:\n"
             f"{json.dumps(esquema, ensure_ascii=False)}")
+
+    if leitor.provedor == "deepseek":
+        # os modelos V4 raciocinam por padrão, e transcrever tabela não pede
+        # raciocínio: com ele cada imagem levava minutos e batia no timeout.
+        # A DeepSeek também não tem json_schema, então vai direto ao JSON livre.
+        corpo["thinking"] = {"type": "disabled"}
+        json_livre()
+    resp = _post(leitor, corpo)
+    if resp.status_code == 400 and re.search(r"response_format|json_schema", resp.text, re.I):
+        json_livre()
         resp = _post(leitor, corpo)
     if resp.status_code in (401, 402, 403, 404):
         raise ErroFatal(f"{leitor.provedor} HTTP {resp.status_code}: {resp.text[:300]}")
@@ -202,7 +212,7 @@ def _post(leitor: Leitor, corpo: dict[str, Any]) -> requests.Response:
         cabecalhos["Authorization"] = f"Bearer {leitor.chave}"
     try:
         return requests.post(f"{leitor.url.rstrip('/')}/chat/completions",
-                             headers=cabecalhos, json=corpo, timeout=180)
+                             headers=cabecalhos, json=corpo, timeout=(15, 180))
     except requests.RequestException as exc:
         raise RuntimeError(f"{leitor.provedor}: {exc}") from exc
 

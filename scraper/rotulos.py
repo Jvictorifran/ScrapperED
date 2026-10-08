@@ -18,6 +18,7 @@ import json
 import logging
 import os
 import sqlite3
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -160,6 +161,7 @@ def processar(db_path: str, limite: int | None = None, site: str | None = None,
     resumo: dict[str, Any] = {"modelo": leitor.rotulo, "lidas": 0, "com_tabela": 0, "sem_tabela": 0, "erros": 0}
     for product_id, loja, nome, url in fila:
         agora = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        inicio = time.monotonic()
         try:
             dados, tipo = _baixar(url)
             leitura = leitor.ler(dados, tipo, INSTRUCAO, ESQUEMA)
@@ -179,6 +181,9 @@ def processar(db_path: str, limite: int | None = None, site: str | None = None,
             resumo["erros"] += 1
             continue
 
+        for item in leitura["itens"]:
+            # alguns modelos devolvem "42%"; a tabela em texto grava só "42"
+            item["vd"] = item["vd"].rstrip("%").strip()
         tem = bool(leitura["tem_tabela"] and leitura["itens"])
         conn.execute(
             "INSERT OR REPLACE INTO rotulos_ia VALUES (?,?,?,?,?,?,NULL)",
@@ -186,8 +191,9 @@ def processar(db_path: str, limite: int | None = None, site: str | None = None,
         conn.commit()
         resumo["lidas"] += 1
         resumo["com_tabela" if tem else "sem_tabela"] += 1
-        log.info("[%s] %s: %s", loja, nome[:50],
-                 f"{len(leitura['itens'])} nutrientes" if tem else f"sem tabela ({leitura['motivo'][:60]})")
+        log.info("[%s] %s: %s (%.0fs)", loja, nome[:50],
+                 f"{len(leitura['itens'])} nutrientes" if tem else f"sem tabela ({leitura['motivo'][:60]})",
+                 time.monotonic() - inicio)
 
     conn.close()
     return resumo

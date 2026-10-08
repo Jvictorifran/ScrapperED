@@ -94,6 +94,15 @@ class LerCompativel(unittest.TestCase):
         self.assertEqual(post.call_args.kwargs["json"]["response_format"], {"type": "json_object"})
         self.assertTrue(leitura["tem_tabela"])
 
+    def test_deepseek_sem_raciocinio_e_json_livre(self):
+        self.leitor = ia.Leitor("deepseek", "deepseek-chat", "sk-x", "https://api.deepseek.com/v1")
+        leitura, post = self.ler(resposta(200, chat(json.dumps(LEITURA))))
+        self.assertEqual(post.call_count, 1)
+        corpo = post.call_args.kwargs["json"]
+        self.assertEqual(corpo["thinking"], {"type": "disabled"})
+        self.assertEqual(corpo["response_format"], {"type": "json_object"})
+        self.assertTrue(leitura["tem_tabela"])
+
     def test_chave_invalida_e_fatal(self):
         with self.assertRaises(ia.ErroFatal):
             self.ler(resposta(401, "invalid api key"))
